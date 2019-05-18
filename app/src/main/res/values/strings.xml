@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ПАО Ростелеком(v.6.2)-%1$s</string>
+    <string name="test">Тест</string>
+    <string name="his">История</string>
+    <string name="Send">Послать</string>
+    <string name="Repet">Повторить</string>
+    <string name="Ok">Принять в работу</string>
+    <string name="change">Изменить профиль</string>
+    <string name="Lan">Сеть</string>
+    <string name="codSity">#1</string>
+</resources>
+
